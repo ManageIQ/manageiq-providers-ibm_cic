@@ -1,0 +1,16 @@
+:ems:
+  :ems_ibm_cic:
+    :blacklisted_event_names: []
+    :event_handling:
+      :event_groups:
+:ems_refresh:
+  :ibm_cic:
+    :refresh_interval: 15.minutes
+:http_proxy:
+  :ibm_cic:
+    :host:
+    :password:
+    :port:
+    :user:
+:log:
+  :level_ibm_cic: info

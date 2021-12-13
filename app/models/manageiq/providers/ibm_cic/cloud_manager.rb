@@ -16,6 +16,8 @@ class ManageIQ::Providers::IbmCic::CloudManager < ManageIQ::Providers::Openstack
   require_nested :Template
   require_nested :Vm
 
+  supports :create
+
   def self.vm_vendor
     "ibm_z_vm"
   end

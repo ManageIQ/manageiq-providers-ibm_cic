@@ -91,7 +91,7 @@ describe ManageIQ::Providers::IbmCic::CloudManager::Refresher do
       :description => "IBM Default Tenant",
       :enabled     => true,
       :ems_ref     => "a0311bc440e64cbe90c1b947e171335a",
-      :type        => "ManageIQ::Providers::Openstack::CloudManager::CloudTenant" # TODO: Fix openstack parser
+      :type        => "ManageIQ::Providers::IbmCic::CloudManager::CloudTenant"
     )
   end
 
@@ -155,9 +155,9 @@ describe ManageIQ::Providers::IbmCic::CloudManager::Refresher do
       :power_state     => "never",
       :type            => "ManageIQ::Providers::IbmCic::CloudManager::Template",
       :ems_ref         => "d3f1f3db-9c81-46cc-b5ea-dda649e2ab9d",
-      :cloud_tenant    => ems.cloud_tenants.find_by(:ems_ref => "a0311bc440e64cbe90c1b947e171335a"),
       :raw_power_state => "never"
     )
+    expect(image.cloud_tenants).to include(ems.cloud_tenants.find_by(:ems_ref => "a0311bc440e64cbe90c1b947e171335a"))
   end
 
   def assert_specific_vm

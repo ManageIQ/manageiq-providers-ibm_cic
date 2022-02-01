@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.com/ManageIQ/manageiq-providers-ibm_cic.svg?branch=master)](https://travis-ci.com/ManageIQ/manageiq-providers-ibm_cic)
 [![Maintainability](https://api.codeclimate.com/v1/badges/<badge_token>/maintainability)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/<badge_token>/test_coverage)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic/test_coverage)
-[![Security](https://hakiri.io/github/ManageIQ/manageiq-providers-ibm_cic/master.svg)](https://hakiri.io/github/ManageIQ/manageiq-providers-ibm_cic/master)
 
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_cic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 

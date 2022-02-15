@@ -31,6 +31,13 @@ class ManageIQ::Providers::IbmCic::CloudManager < ManageIQ::Providers::Openstack
     @description ||= "IBM Cloud Infrastructure Center".freeze
   end
 
+  has_one :cinder_manager,
+          :foreign_key => :parent_ems_id,
+          :class_name  => "ManageIQ::Providers::IbmCic::StorageManager::CinderManager",
+          :dependent   => :destroy,
+          :inverse_of  => :parent_manager,
+          :autosave    => true
+
   def image_name
     "ibm_cic"
   end

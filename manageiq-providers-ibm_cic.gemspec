@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ManageIQ::Providers::IbmCic::VERSION
   spec.authors       = ["ManageIQ Authors"]
 
-  spec.summary       = "ManageIQ plugin for the Ibm Cic provider."
-  spec.description   = "ManageIQ plugin for the Ibm Cic provider."
+  spec.summary       = "ManageIQ plugin for the IBM CIC provider."
+  spec.description   = "ManageIQ plugin for the IBM CIC provider."
   spec.homepage      = "https://github.com/ManageIQ/manageiq-providers-ibm_cic"
   spec.license       = "Apache-2.0"
 

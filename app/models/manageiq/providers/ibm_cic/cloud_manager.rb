@@ -31,6 +31,11 @@ class ManageIQ::Providers::IbmCic::CloudManager < ManageIQ::Providers::Openstack
     @description ||= "IBM Cloud Infrastructure Center".freeze
   end
 
+  has_one :network_manager,
+          :foreign_key => :parent_ems_id,
+          :class_name  => "ManageIQ::Providers::IbmCic::NetworkManager",
+          :autosave    => true,
+          :dependent   => :destroy
   has_one :cinder_manager,
           :foreign_key => :parent_ems_id,
           :class_name  => "ManageIQ::Providers::IbmCic::StorageManager::CinderManager",
@@ -40,20 +45,6 @@ class ManageIQ::Providers::IbmCic::CloudManager < ManageIQ::Providers::Openstack
 
   def image_name
     "ibm_cic"
-  end
-
-  def ensure_network_manager
-    return false if network_manager
-
-    build_network_manager(:type => 'ManageIQ::Providers::IbmCic::NetworkManager')
-    true
-  end
-
-  def ensure_cinder_manager
-    return false if cinder_manager
-
-    build_cinder_manager(:type => 'ManageIQ::Providers::IbmCic::StorageManager::CinderManager')
-    true
   end
 
   def ensure_swift_manager

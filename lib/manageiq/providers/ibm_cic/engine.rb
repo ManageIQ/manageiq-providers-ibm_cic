@@ -16,7 +16,7 @@ module ManageIQ
         end
 
         def self.plugin_name
-          _('Ibm Cic Provider')
+          _('IBM CIC Provider')
         end
 
         def self.init_loggers

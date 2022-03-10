@@ -8,7 +8,7 @@
 
 [![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-ibm_cic?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions?query=branch%3Amaster)
 
-ManageIQ plugin for the Ibm Cic provider.
+ManageIQ plugin for the IBM CIC provider.
 
 ## Development
 

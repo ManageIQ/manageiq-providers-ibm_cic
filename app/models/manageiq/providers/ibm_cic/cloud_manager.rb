@@ -50,4 +50,10 @@ class ManageIQ::Providers::IbmCic::CloudManager < ManageIQ::Providers::Openstack
   def ensure_swift_manager
     false
   end
+
+  def self.params_for_create
+      {
+        :fields => super[:fields].delete_if { |x| x[:id] == "provider_id" }
+      }
+  end
 end

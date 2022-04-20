@@ -1,5 +1,4 @@
 class ManageIQ::Providers::IbmCic::Inventory::Parser::CloudManager < ManageIQ::Providers::Openstack::Inventory::Parser::CloudManager
- 
   def parse_vm(vm, hosts)
     super
     server = persister.vms.find_or_build(vm.id.to_s)

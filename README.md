@@ -1,9 +1,8 @@
 # ManageIQ::Providers::IbmCic
 
 [![CI](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/<badge_token>/maintainability)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/<badge_token>/test_coverage)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic/test_coverage)
-
+[![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic)
+[![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic/coverage)
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_cic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build history for master branch](https://buildstats.info/github/chart/ManageIQ/manageiq-providers-ibm_cic?branch=master&buildCount=50&includeBuildsFromPullRequest=false&showstats=false)](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions?query=branch%3Amaster)

@@ -1,10 +1,10 @@
 describe ManageIQ::Providers::IbmCic::CloudManager::ProvisionWorkflow do
   include Spec::Support::WorkflowHelper
 
-  let(:admin)    { FactoryBot.create(:user_with_group) }
+  let(:admin) { FactoryBot.create(:user_with_group) }
+  let(:zone)  { EvmSpecHelper.local_miq_server.zone }
   let(:provider) do
-    allow_any_instance_of(User).to receive(:get_timezone).and_return(Time.zone)
-    FactoryBot.create(:ems_ibm_cic)
+    FactoryBot.create(:ems_ibm_cic, :zone => zone)
   end
 
   let(:template) { FactoryBot.create(:template_ibm_cic, :ext_management_system => provider) }

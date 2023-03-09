@@ -13,12 +13,14 @@ class ManageIQ::Providers::IbmCic::CloudManager < ManageIQ::Providers::Openstack
   require_nested :MetricsCollectorWorker
   require_nested :OrchestrationStack
   require_nested :PlacementGroup
+  require_nested :ProvisionWorkflow
   require_nested :Refresher
   require_nested :RefreshWorker
   require_nested :Snapshot
   require_nested :Template
   require_nested :Vm
 
+  supports :catalog
   supports :create
 
   def self.vm_vendor

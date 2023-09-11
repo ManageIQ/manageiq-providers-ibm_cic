@@ -13,6 +13,7 @@ class ManageIQ::Providers::IbmCic::CloudManager < ManageIQ::Providers::Openstack
   require_nested :MetricsCollectorWorker
   require_nested :OrchestrationStack
   require_nested :PlacementGroup
+  require_nested :Provision
   require_nested :ProvisionWorkflow
   require_nested :Refresher
   require_nested :RefreshWorker

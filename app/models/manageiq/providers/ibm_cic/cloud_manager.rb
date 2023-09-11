@@ -35,6 +35,10 @@ class ManageIQ::Providers::IbmCic::CloudManager < ManageIQ::Providers::Openstack
     @description ||= "IBM Cloud Infrastructure Center".freeze
   end
 
+  def self.catalog_types
+    {"IbmCic" => N_("IBM Cloud Infrastructure Center")}
+  end
+
   has_one :network_manager,
           :foreign_key => :parent_ems_id,
           :class_name  => "ManageIQ::Providers::IbmCic::NetworkManager",

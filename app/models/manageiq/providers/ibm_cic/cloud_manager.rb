@@ -13,6 +13,7 @@ class ManageIQ::Providers::IbmCic::CloudManager < ManageIQ::Providers::Openstack
   require_nested :MetricsCollectorWorker
   require_nested :OrchestrationStack
   require_nested :PlacementGroup
+  require_nested :Provision
   require_nested :ProvisionWorkflow
   require_nested :Refresher
   require_nested :RefreshWorker
@@ -33,6 +34,10 @@ class ManageIQ::Providers::IbmCic::CloudManager < ManageIQ::Providers::Openstack
 
   def self.description
     @description ||= "IBM Cloud Infrastructure Center".freeze
+  end
+
+  def self.catalog_types
+    {"IbmCic" => N_("IBM Cloud Infrastructure Center")}
   end
 
   has_one :network_manager,

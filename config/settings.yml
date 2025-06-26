@@ -7,10 +7,14 @@
     :parallel_thread_limit: 0
   :ibm_cic_network:
     :is_admin: false
+    :refresh_interval: 0
   :ibm_cic_infra:
     :is_admin: false
-  :cinder:
+  :ibm_cic_cinder:
     :is_admin: false
+    :refresh_interval: 0
+  :ibm_cic_swift:
+    :refresh_interval: 0
 :ems:
   :ems_ibm_cic:
     :excon:

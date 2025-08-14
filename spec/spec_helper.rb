@@ -15,8 +15,5 @@ VCR.configure do |config|
 
   fix_token_expires_at(config)
 
-  secrets = Rails.application.secrets
-  secrets.ibm_cic.each_key do |secret|
-    config.define_cassette_placeholder(secrets.ibm_cic_defaults[secret]) { secrets.ibm_cic[secret] }
-  end
+  VcrSecrets.define_all_cassette_placeholders(config, :ibm_cic)
 end

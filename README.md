@@ -1,6 +1,6 @@
 # ManageIQ::Providers::IbmCic
 
-[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml/badge.svg)](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml)
+[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml)
 [![Code Climate](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic)
 [![Test Coverage](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic/badges/coverage.svg)](https://codeclimate.com/github/ManageIQ/manageiq-providers-ibm_cic/coverage)
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_cic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

@@ -1,6 +1,6 @@
 # ManageIQ::Providers::IbmCic
 
-[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml)
+[![CI](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml/badge.svg?branch=tal)](https://github.com/ManageIQ/manageiq-providers-ibm_cic/actions/workflows/ci.yaml)
 [![Chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ManageIQ/manageiq-providers-ibm_cic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ManageIQ plugin for the IBM CIC provider.

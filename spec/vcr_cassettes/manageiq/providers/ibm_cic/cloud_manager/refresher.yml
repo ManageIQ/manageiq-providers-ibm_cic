@@ -81,7 +81,7 @@ http_interactions:
       Content-Length:
       - '343'
       X-Subject-Token:
-      - gAAAAABkW5nkspkVLdv8iCGr7xhO-v3qqqjJ5dinvI-o62UHTEkVIJyEQqc1HqJ0ab_-OggIec2YqyzzS7UodOnfweQjUcBgMaxIGtwf32fRDF849RiGKHoU7BjNukZjCNsllUkeEjgKqofranVm4Me7SB-qiPWZIBe6ICyXoIRrDuL6WpMU6YFjdfFdcH4DFIpMxZER41ZWKA8iwVbHO5gFZJpkqSJ20g
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -110,7 +110,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nkspkVLdv8iCGr7xhO-v3qqqjJ5dinvI-o62UHTEkVIJyEQqc1HqJ0ab_-OggIec2YqyzzS7UodOnfweQjUcBgMaxIGtwf32fRDF849RiGKHoU7BjNukZjCNsllUkeEjgKqofranVm4Me7SB-qiPWZIBe6ICyXoIRrDuL6WpMU6YFjdfFdcH4DFIpMxZER41ZWKA8iwVbHO5gFZJpkqSJ20g
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -181,7 +181,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -308,7 +308,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -351,7 +351,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -420,7 +420,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5nnTDeMvBfUbN-p2K6tEJuYwJ1U7Sf9luSh8xrkaJ-UZ4OPk_P09ofssyetNAxh31YwUMvvng4OkFENnWSyleV4l1zcY12AO2xbg3dDKJ9InVfExpqXNMBaGsi8VI9X2wsER67xIUS1NfR-LR6WEYID0bZ3WTu6AOoMgfcIpB6G9f9N78wNbHaHbXrnh3jmwXEvXcyQGK3LFG8Xur41RdTQr21WMCuLiwdv-UJTLCDH4VM
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -547,7 +547,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nnTDeMvBfUbN-p2K6tEJuYwJ1U7Sf9luSh8xrkaJ-UZ4OPk_P09ofssyetNAxh31YwUMvvng4OkFENnWSyleV4l1zcY12AO2xbg3dDKJ9InVfExpqXNMBaGsi8VI9X2wsER67xIUS1NfR-LR6WEYID0bZ3WTu6AOoMgfcIpB6G9f9N78wNbHaHbXrnh3jmwXEvXcyQGK3LFG8Xur41RdTQr21WMCuLiwdv-UJTLCDH4VM
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -593,7 +593,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -655,7 +655,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -717,7 +717,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -847,7 +847,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -896,7 +896,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -946,7 +946,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -996,7 +996,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -1065,7 +1065,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5nskpgXM0CNA2cEg0RlIiNE7Mxp8VFh76wnSDa0Tn_9uijp75eBjhgdVpv2-0IrRUPcdiU12iuCGmkKcyPZyWN-a1cnWY-z-mw3WoDoZS4tR6NXdahcWSzMQ-YEfeGFnBrR4cCdb-3wYYlNQKkS2v30Tum_2k_XnISfHXabNI3bDXJaj5tFOtUifnwVlKZfNbb35ONPtTnMkOz6me8off_EU25-Or7nFIksDsTEtCsFSKk
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -1192,7 +1192,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nskpgXM0CNA2cEg0RlIiNE7Mxp8VFh76wnSDa0Tn_9uijp75eBjhgdVpv2-0IrRUPcdiU12iuCGmkKcyPZyWN-a1cnWY-z-mw3WoDoZS4tR6NXdahcWSzMQ-YEfeGFnBrR4cCdb-3wYYlNQKkS2v30Tum_2k_XnISfHXabNI3bDXJaj5tFOtUifnwVlKZfNbb35ONPtTnMkOz6me8off_EU25-Or7nFIksDsTEtCsFSKk
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -1263,7 +1263,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nskpgXM0CNA2cEg0RlIiNE7Mxp8VFh76wnSDa0Tn_9uijp75eBjhgdVpv2-0IrRUPcdiU12iuCGmkKcyPZyWN-a1cnWY-z-mw3WoDoZS4tR6NXdahcWSzMQ-YEfeGFnBrR4cCdb-3wYYlNQKkS2v30Tum_2k_XnISfHXabNI3bDXJaj5tFOtUifnwVlKZfNbb35ONPtTnMkOz6me8off_EU25-Or7nFIksDsTEtCsFSKk
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -1304,7 +1304,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -1359,7 +1359,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -1433,7 +1433,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5nvoCye0teIAnwSsKvbRO7c6622cJHiBZx-pACtk4YyeFfQQ_563NsMhCgZF6Lfff_BDaRhm4DDJ09VjilGE0g3YI_RActaRzKetIEWYoQecNdNqdYo9MWyOHEfWsbnCqGc_-4znllVBNWcqdUSz042YbR10tOkEIJd9_BoqD0aABrtgx8OnDBI_Aosq2gCQN-Z8l-uiWsNaItOYCCVWIND2NYn9gStK2jsIgedo7rNYjY
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -1560,7 +1560,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -1613,7 +1613,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nnTDeMvBfUbN-p2K6tEJuYwJ1U7Sf9luSh8xrkaJ-UZ4OPk_P09ofssyetNAxh31YwUMvvng4OkFENnWSyleV4l1zcY12AO2xbg3dDKJ9InVfExpqXNMBaGsi8VI9X2wsER67xIUS1NfR-LR6WEYID0bZ3WTu6AOoMgfcIpB6G9f9N78wNbHaHbXrnh3jmwXEvXcyQGK3LFG8Xur41RdTQr21WMCuLiwdv-UJTLCDH4VM
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -1680,7 +1680,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5nyU5NY2FsS2uRn5AIFRcCgLacSi966SVPB4wlXopeWZTBIQ7cTKF3102QPJ6ZiUAKO8fL8M-QcONIntzRReSwSMbsZFhHVDeJFepnTPoBr1XZ3d09kJu9yNEQwx-VqJcL9sOGm_-TPdCWkH8mUArxPgA0OUj2XHs6klL52Z5R78rdf7vn_6YvtYjdfQJWFuwqQOesMTQ-Hpqde5nC_AXAKFNDltfW29cUgK9VB5tli88o
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -1807,7 +1807,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nyU5NY2FsS2uRn5AIFRcCgLacSi966SVPB4wlXopeWZTBIQ7cTKF3102QPJ6ZiUAKO8fL8M-QcONIntzRReSwSMbsZFhHVDeJFepnTPoBr1XZ3d09kJu9yNEQwx-VqJcL9sOGm_-TPdCWkH8mUArxPgA0OUj2XHs6klL52Z5R78rdf7vn_6YvtYjdfQJWFuwqQOesMTQ-Hpqde5nC_AXAKFNDltfW29cUgK9VB5tli88o
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -1850,7 +1850,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -1899,7 +1899,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -2314,7 +2314,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -2363,7 +2363,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -2413,7 +2413,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -2463,7 +2463,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -2513,7 +2513,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -2564,7 +2564,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -2614,7 +2614,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -2683,7 +2683,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5n42v6FxM6xVjbY3PFIqAHrP1GGfGu9pOoiJBPzOnxIcGkagI8r4hhDwAYgGdZM4EIVN_GLm5wHpxIP3FDoy-4QtsbfPh0_0kn1aevg-vCa4_ElH4OZp26x-ScVkiSPIbsD_bPBOisSQJ-bFFHAdP3j-LGD7BOh9ciTm2RY3gha_75kl_DvgXtT-MQCTLHrZAyLZa6mprpWnSkFb8NwM0KwFYYRxhRcZtSj1kA75Zp45_I
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -2829,7 +2829,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5n5e7bDTmdaKmTWfiP-ychd5V7HBypqczLE7-BnHUtGxmq4kbH-0URd_P4P5Q6rSEJF4u7--jmvxyz3w1SCwfsdBdBH4jtEjq-J2_fDnzrT4nBZgsBjYa0fDOz94g_58f_SoRq8kt5LgiiqTS4ZbHoM_90GC_JX17mHTYY-nDBSv4x-sxjlBFP9EKILLMed_CbNQOxf7jDSoARzUlD37R_8BVQAmr0jqc5mXblLm0lKFoc
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -2956,7 +2956,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nlmqc2B6MY6YN1amQ7hMz-1d7A1qJjWqcWfqsnQGio_bHNTkMvuvhHg2eULkDA5ebLL5aKdMns2WFtYc4E-qdIAR4B3q-Eys8gYDl1BivBDceFLWK6oakkp-XRF4_jLhCrEXU3QPCHepv_YsE_IpKKI9Gt30y3rMaQooqzMbHz4gnkeyGac6cQzsN2x4MsBOLUMDwZX32TOD5xhi0hoKxcSGH_cmUvPQop6AZ85YB2L7o
+      - KEYSTONE_TOKEN_ID
       X-Openstack-Nova-Api-Version:
       - '2.15'
   response:
@@ -3013,7 +3013,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nnTDeMvBfUbN-p2K6tEJuYwJ1U7Sf9luSh8xrkaJ-UZ4OPk_P09ofssyetNAxh31YwUMvvng4OkFENnWSyleV4l1zcY12AO2xbg3dDKJ9InVfExpqXNMBaGsi8VI9X2wsER67xIUS1NfR-LR6WEYID0bZ3WTu6AOoMgfcIpB6G9f9N78wNbHaHbXrnh3jmwXEvXcyQGK3LFG8Xur41RdTQr21WMCuLiwdv-UJTLCDH4VM
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -3114,7 +3114,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nnTDeMvBfUbN-p2K6tEJuYwJ1U7Sf9luSh8xrkaJ-UZ4OPk_P09ofssyetNAxh31YwUMvvng4OkFENnWSyleV4l1zcY12AO2xbg3dDKJ9InVfExpqXNMBaGsi8VI9X2wsER67xIUS1NfR-LR6WEYID0bZ3WTu6AOoMgfcIpB6G9f9N78wNbHaHbXrnh3jmwXEvXcyQGK3LFG8Xur41RdTQr21WMCuLiwdv-UJTLCDH4VM
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -3159,7 +3159,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nnTDeMvBfUbN-p2K6tEJuYwJ1U7Sf9luSh8xrkaJ-UZ4OPk_P09ofssyetNAxh31YwUMvvng4OkFENnWSyleV4l1zcY12AO2xbg3dDKJ9InVfExpqXNMBaGsi8VI9X2wsER67xIUS1NfR-LR6WEYID0bZ3WTu6AOoMgfcIpB6G9f9N78wNbHaHbXrnh3jmwXEvXcyQGK3LFG8Xur41RdTQr21WMCuLiwdv-UJTLCDH4VM
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -3210,7 +3210,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nnTDeMvBfUbN-p2K6tEJuYwJ1U7Sf9luSh8xrkaJ-UZ4OPk_P09ofssyetNAxh31YwUMvvng4OkFENnWSyleV4l1zcY12AO2xbg3dDKJ9InVfExpqXNMBaGsi8VI9X2wsER67xIUS1NfR-LR6WEYID0bZ3WTu6AOoMgfcIpB6G9f9N78wNbHaHbXrnh3jmwXEvXcyQGK3LFG8Xur41RdTQr21WMCuLiwdv-UJTLCDH4VM
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -3261,7 +3261,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nnTDeMvBfUbN-p2K6tEJuYwJ1U7Sf9luSh8xrkaJ-UZ4OPk_P09ofssyetNAxh31YwUMvvng4OkFENnWSyleV4l1zcY12AO2xbg3dDKJ9InVfExpqXNMBaGsi8VI9X2wsER67xIUS1NfR-LR6WEYID0bZ3WTu6AOoMgfcIpB6G9f9N78wNbHaHbXrnh3jmwXEvXcyQGK3LFG8Xur41RdTQr21WMCuLiwdv-UJTLCDH4VM
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -3395,7 +3395,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5nnTDeMvBfUbN-p2K6tEJuYwJ1U7Sf9luSh8xrkaJ-UZ4OPk_P09ofssyetNAxh31YwUMvvng4OkFENnWSyleV4l1zcY12AO2xbg3dDKJ9InVfExpqXNMBaGsi8VI9X2wsER67xIUS1NfR-LR6WEYID0bZ3WTu6AOoMgfcIpB6G9f9N78wNbHaHbXrnh3jmwXEvXcyQGK3LFG8Xur41RdTQr21WMCuLiwdv-UJTLCDH4VM
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -3507,7 +3507,7 @@ http_interactions:
       Content-Length:
       - '343'
       X-Subject-Token:
-      - gAAAAABkW5n-ej0__CVpvRu8u9W171dvK96LWigNiiL9M7O1VL-Xb4aFdjz3mbmqmbmQO1lVgOopXF4rvwyrYHQKhFEdqkpUBqH6mIRRAQphp9g72boafD97maauF70al8XjlmUZALeBJQ7dl96PS89d9-yqC7-vgelamztLpPt-I4a6XRogiS6ixECXmxsjwdFfvOTXWt1Xwm9KWg9ViuhTt1v2CplS1Q
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -3536,7 +3536,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5n-ej0__CVpvRu8u9W171dvK96LWigNiiL9M7O1VL-Xb4aFdjz3mbmqmbmQO1lVgOopXF4rvwyrYHQKhFEdqkpUBqH6mIRRAQphp9g72boafD97maauF70al8XjlmUZALeBJQ7dl96PS89d9-yqC7-vgelamztLpPt-I4a6XRogiS6ixECXmxsjwdFfvOTXWt1Xwm9KWg9ViuhTt1v2CplS1Q
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -3607,7 +3607,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oAkG2WOG-DkX9hfYO4XwINfelbzvmtaHbBGFQ53Lj7vjChNFpvm5_P71DpOYRyoKB-upu_KtkMVb22BzUl6o2ADRQEP2PF4msQwdMH4hwJY9ohYLg_Yudj7f7oWRJI9Jws_cgQ9FO-thXcHRyZ4IBQBVFslHszKQU8AYx8yqCP7xny1xjrsnh5gvku3eQZWsU9WVVxK5uSIJ9q7-KDEiy4i7Kt9dWwtUMPDfmAFZ6Rf2I
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -3753,7 +3753,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -3880,7 +3880,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -3941,7 +3941,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oCNhdXp1bcKkHDeq3l8eJ6ldVM5Ug4byyRhqAoewJ_8pQ29I06VeomKFWel5HKhDzu2pCJYAqoOyIoHMOyVdLpGqWNaoUNDQfoj0D_QjKdTmIE0jPO51AVcwZLo08O3hLFc7ZbxyOtPfk0Otw3znNdf-dJH6GxLXBnDFHereJUXA0J1mUsKoZaybeUQ6JDu_dFUhHNCt85yb_YVnh0vTABnUopxw42dSV1sHg22WT-MOA
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -4087,7 +4087,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oDQLYONNJgpvYShhVzi_Xx89TLdXrA0pqEjNWMNucKh7bH-b0d6LIbr44wPs603Fi30-E47_yv7FNHBPQxvIM7cRnJ7sz2YpiAvV5PzAiSILxjTqn8ylY3fcTVFgu3JdBhtQilUJE_bqNol8YBwFYVpmLidwOGLPzY-enIVXYD3R1hS7AXuVSx-jfN6B_XYJVN5MUDXkP13jmZ8Y-SL0oupomS2OXLL_xF4rJl1Pm7FwE
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -4233,7 +4233,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oE6J-TzAME2ro0voPRIMj7XaHhJornw6fx4rsOAClzl4vd8YDLNBuIHSR0AqhTPonw5ShL6E7LhjuB_ilNghQ_KZb6vhavu4xVhGUjI8kJCCxJC0GvYemwqfGbKLZ8XwPNGTI3aylDS6yv8S3vt8a9631d_q0hn3QEphA5L-9cBDx04W1K1Ogo1cxlaJYbuF6kV8OKQlv4XkKP_0fR5D7gq8MYi-ri13M0Ui6JhwanucI
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -4379,7 +4379,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oFR7ebV34ogckO0yTjHcm24CFvL-k0x1uosnRTlVcxHGD-Y8EP98G2UldmABBkD7C_uUJcTSKUEyKVq_iNOfeqUuBNiodzubY3dw4x86uJetbUk3gEjABZI3bYreZqhWCua6kH5J3vZbNaVConinb6NucfIZlAmweb0At3LYo3YlCDjeqFVIU19saOCG8HcTvYgAev1LoRuOeTzxlGjUjXTy8iZcomrWsuyTrwwlvmEfo
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -4525,7 +4525,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oGFw2rBblSkXfP5kEYFsBsYXTICa2SU7diTogB-O3GAddUVXpUKOwn-Z4PNf_eWQ_K42wHdZ1BlPF6QMj4sEbL6BKOBashT4trkcXx4KkT3sAvlJmFP9hxBZJDqZdt35ZtkNZ64a8WizxP0EeVuaOP80b8A_aVkskifQWxBq_e4xAFOgkUAFZwRnkliTlkMB10Cxd8OjSk5u9RuRTiXKBUESiw3l-pF93pN_f5YOxNdQQ
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -4671,7 +4671,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oGZ3u3GAJ5GXaw4R0OiKQFq9vu_MwDbtDCW_hgxcYjOFW_eF0NduM2zUPNfeYRBTjTh91uTYuhDB0GVaOlOJV42hKIz8FmxRmdREZi2Nz0zx5LHDfXWN5CKbnbe4f08YEjLQsVyKUMdN7YRhPLitjO3FEWatY0wQVByGODuN8ik_yvCjBMNqvvcxAgflUb_BSof6j0wkNn5m2lBLvkGcPSqtcoKXKeBTXLWpfjHc2EjKs
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -4798,7 +4798,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -4840,7 +4840,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -4881,7 +4881,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -4923,7 +4923,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -4964,7 +4964,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -5005,7 +5005,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -5065,7 +5065,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -5106,7 +5106,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -5221,7 +5221,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -5282,7 +5282,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oM1RQbRUJA79vMNiUv8eK64M-TC1Xe58mSFcIGAkjJ5_ZEQyv4WnJf-zoofjs9gqMfpz08y4Np_rnt8mx95KLzJwca_p8QA3lhkUCouwylTQj_FjmG4Ke4GPXMrZCrgMsgKlITT_gpOLrBXRxRAF7xZjpMvVMDZMPSFt5LNVtuO7JpydfzWhrCz19upfOI3EBpsm0VmdLP_XrjZ8L_U5c3v58E18bWXlbwQ1xXR5N3NFQ
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -5428,7 +5428,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oNt82JFKGOKSSfkZhOOD2Laz9hwlw4pdKBa22Jm3SVhdLxOT-wNNKSw5G7gpO48q24dfvYaUGgHHASBTl__b3Iw9JhZEGqNQbMWkvuEFtn0JfjYxA7f9lGmAbn8CQpreofWWgEMutK-QdIsJKXxW-79McQYoJiaQVgydMd0sD7xxe2kGQa0bjn2A-F--p4uwyBp2pBmpCQQP31bqv-pon62ezK-K4QjjONxaq70bUaMX4
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -5574,7 +5574,7 @@ http_interactions:
       Content-Length:
       - '8934'
       X-Subject-Token:
-      - gAAAAABkW5oOHza2nx-Zbc1FvUOSp-enECpgDlUryFQDtyY3N01_SnuD-K53sJc-WM_LNRFATytdE9MaQ7h1pYmdeOQccA4urQ149MFfQVz-ZZ5bfGq8yXidOvwzuejhcanvBcqn_AfRlDfu20ZLd8v9kxlm4t_zdqZ0_HDJyXHXXK76dKLj9UqrBGVOH7_sVrQw5w7oFg0U5Rh_A8nhzUt0P1XwAjjXwYttMHuzgaYZD6Y6hLx_CSk
+      - KEYSTONE_TOKEN_ID
       Vary:
       - X-Auth-Token,User-Agent
       X-Openstack-Request-Id:
@@ -5701,7 +5701,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
@@ -5802,7 +5802,7 @@ http_interactions:
       Accept:
       - application/json
       X-Auth-Token:
-      - gAAAAABkW5oBOlH48GVXv6nvoND8VCPA1DJV8xoq9sg_GEq8e5tE07jLlkJ8PXRtcyyMA6hwX_nVGsYiN-xhKQSUvKanSu6BEYx6nEhqE0bGootU8oQ-6eTNQTiRt02DSTKJDPM1sn9GzUC1fskirgpMwNlDXIOP4aRRLIIy8qhbOcCMXm2B2RQzBSNiWwVePjlg0iGvjCz9AAP3-K3can0-WEEx160jKVAwj689g1ySUKkuTnOBc6U
+      - KEYSTONE_TOKEN_ID
   response:
     status:
       code: 200
